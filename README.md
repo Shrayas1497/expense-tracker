@@ -10,7 +10,7 @@ steps to use:-
 
 1.In the place of New-Transaction enter the details you want.
 
-2.Always write 'reduced' amount in negative format for eg.(-90,-80 etc.).this will reduce the amount from the remaining balance anf for adding vice-versa.
+2.Always write 'reduced' amount in negative format for eg.(-90,-80 etc.).this will reduce the amount from the remaining balance and for adding vice-versa.
 
 3.Delete the transaction if you want.
 
