@@ -9,4 +9,5 @@ There are  area where expenses,balance and income is shown in the app which is  
 steps to use:-
 
 1.In the place of New-Transaction enter the details you want.
-2.always write amount in negative format for eg.(-90,-80 etc.).ths will reduce the balance from the remaining balance 
+
+2.Always write amount in negative format for eg.(-90,-80 etc.).ths will reduce the amount from the remaining balance 
