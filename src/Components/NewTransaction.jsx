@@ -21,12 +21,19 @@ const NewTransaction = ({ addTransaction }) => {
     const [amount, setAmount] = useState();
 
     const newTransaction = e => {
-        const transaction = {
+        
+        if (isNaN(amount)) {
+            alert("pls enter a number");
+            return;
+            
+          } 
+          const transaction = {
             id: Math.floor(Math.random() * 100000000),
             text: text,
             amount: +amount
         }
         addTransaction(transaction);
+        
     }
     
     return (
